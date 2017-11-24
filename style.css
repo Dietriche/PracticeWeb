@@ -1,3 +1,9 @@
 #font-title {
     font-family: lobster;
 }
+
+.lyrics {
+    background:
+    url(tumblr_owzb0opbrH1tr2u3ko1_400.gif) no-repeat center center fixed;
+    background-size: cover;
+}
