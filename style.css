@@ -1,5 +1,3 @@
-@import "tumblr_owzb0opbrH1tr2u3ko1_400.gif";
-
 #font-title {
     font-family: lobster;
 }
@@ -11,8 +9,10 @@
 }
 
 body {
-    background-color: rgb(115, 115, 115);
-    background-image: url("tumblr_owzb0opbrH1tr2u3ko1_400.gif");
+    background-image: url('awfulthings.gif'),
+    url('awfulthings.gif');
+    background-size: cover;
+
 }
 
 h1 {
