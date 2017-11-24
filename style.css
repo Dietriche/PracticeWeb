@@ -1,9 +1,11 @@
 #font-title {
     font-family: lobster;
 }
+@import url(tumblr_owzb0opbrH1tr2u3ko1_400.gif);
 
 .lyrics {
     background:
     url(tumblr_owzb0opbrH1tr2u3ko1_400.gif) no-repeat center center fixed;
     background-size: cover;
+    margin-right: auto;
 }
