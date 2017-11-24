@@ -1,9 +1,20 @@
+@import "tumblr_owzb0opbrH1tr2u3ko1_400.gif";
+
 #font-title {
     font-family: lobster;
 }
-@import url(tumblr_owzb0opbrH1tr2u3ko1_400.gif);
 
 .lyrics {
     font-style: italic;
-    color: blue
+    color: rgb(255, 179, 255);
+    font-size: 18px;
+}
+
+body {
+    background-color: rgb(115, 115, 115);
+    background-image: url("tumblr_owzb0opbrH1tr2u3ko1_400.gif");
+}
+
+h1 {
+    color: rgb(255, 230, 255);
 }
