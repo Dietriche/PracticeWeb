@@ -1,5 +1,17 @@
+body, html {
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    background-image: url('awfulthings.gif');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 #font-title {
-    font-family: lobster;
+    font-family: "Lobster", serif;
 }
 
 .lyrics {
@@ -8,12 +20,6 @@
     font-size: 18px;
 }
 
-body {
-    background-image: url('awfulthings.gif'),
-    url('awfulthings.gif');
-    background-size: cover;
-
-}
 
 h1 {
     color: rgb(255, 230, 255);
